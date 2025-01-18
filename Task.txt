@@ -1,0 +1,34 @@
+Your Task:
+Create a homepage for your favorite travel destination. Create secondary pages for
+any links you create on the home page. You are welcome to use any images and/or
+information you find on the web for your pages. Your site should include the
+appropriate CSS for displaying information.
+
+Research Topics
+1. Find an example on the web of each of the 4 color schemes above.
+   
+   Monochromatic: https://www.kiramoon.com/ 
+
+   Analogous: https://trello.com/ 
+
+   Complementary: https://www.apple.com/ 
+
+   Triad: https://www.spotify.com/us/premium/ 
+
+2. Of the 4 sites you found, which is the most visually appealing in terms of
+   color? Why?
+
+   Kiramoon was the most visually appealing to me, which is monochromatic color scheme. 
+   Even with one color, the site looked so simple yet so vibrant. The layout, color and 
+   movement are all well balanced and asymmetrical. The background color and product color 
+   were the perfect combination which made the products to glow adn grab attention. Overall,
+   the site looked organized and soothing which important for the beauty products.
+
+3. Which color scheme did you choose for your site? Why?
+
+   I chose the monochromatic color scheme for my site. I like the websites with a different intensities 
+   and shades of a single color. It's very pleasing to the eyes especially the light colors.It creates a 
+   soothing calm environment in the site. Monochromatic color also help to keep the focus on actual content 
+   by minimizing distractions of different colors. It can also help visiters to navigate easily to find information. 
+   Overall, I think monochromatic color is good option for a content-focused as well as visually website.  
+  

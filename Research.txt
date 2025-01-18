@@ -1,0 +1,31 @@
+Please document your steps: 
+
+1. Research steps:
+	
+   Color Schemes:
+    Monochromatic
+   	Analogous 
+	Complementary
+	Triad
+
+2. Pages touched
+	Kiramoon
+	Apple
+	Adidas
+	Australia.com
+	DropBox
+	Microsoft
+	Spotify
+	Chatgpt
+	Canvas
+	Trello
+	W3Schools
+
+3. Selected Changes from sites
+	Navigation styles from Kiramoon
+	Background Color from Coolors
+
+4. Changes Applied 
+    Background Color and navigation
+
+5. Screen shot changes applied
